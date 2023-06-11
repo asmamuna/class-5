@@ -1,0 +1,16 @@
+#first_Work{
+    width: 25%;
+    height: 40%;
+    background-color:aquamarine;
+    padding: 20px 10px 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.Printer{
+    width: 25%;
+    height: 40%;
+    background-color:blanchedalmond;
+    padding: 20px 10px 10px;
+    margin: 10px;
+    border-inset: 10px;
+}
